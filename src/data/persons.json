@@ -1,0 +1,295 @@
+[
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "title": "CEO, OpenAI",
+    "bio": "",
+    "netWorth": "$2B+",
+    "age": 41,
+    "companies": [
+      "openai",
+      "y-combinator",
+      "loopt"
+    ],
+    "education": "Stanford University (Dropout)",
+    "socials": {
+      "twitter": "https://twitter.com/sama"
+    }
+  },
+  {
+    "slug": "jensen-huang",
+    "name": "Jensen Huang",
+    "title": "CEO, NVIDIA",
+    "bio": "",
+    "netWorth": "$100B+",
+    "age": 63,
+    "companies": [
+      "nvidia"
+    ],
+    "education": "Oregon State University, Stanford University",
+    "socials": {}
+  },
+  {
+    "slug": "elon-musk",
+    "name": "Elon Musk",
+    "title": "CEO, Tesla & SpaceX",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 55,
+    "companies": [
+      "tesla",
+      "spacex",
+      "x"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "sundar-pichai",
+    "name": "Sundar Pichai",
+    "title": "CEO, Alphabet",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 54,
+    "companies": [
+      "google"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "satya-nadella",
+    "name": "Satya Nadella",
+    "title": "CEO, Microsoft",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 58,
+    "companies": [
+      "microsoft"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "mark-zuckerberg",
+    "name": "Mark Zuckerberg",
+    "title": "CEO, Meta",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 42,
+    "companies": [
+      "meta"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "jeff-bezos",
+    "name": "Jeff Bezos",
+    "title": "Founder, Amazon",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 62,
+    "companies": [
+      "amazon"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "larry-page",
+    "name": "Larry Page",
+    "title": "Co-founder, Google",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 53,
+    "companies": [
+      "google"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "sergey-brin",
+    "name": "Sergey Brin",
+    "title": "Co-founder, Google",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 52,
+    "companies": [
+      "google"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "tim-cook",
+    "name": "Tim Cook",
+    "title": "CEO, Apple",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 65,
+    "companies": [
+      "apple"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "linus-torvalds",
+    "name": "Linus Torvalds",
+    "title": "Creator, Linux",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 56,
+    "companies": [],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "yann-lecun",
+    "name": "Yann LeCun",
+    "title": "Chief AI Scientist, Meta",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 65,
+    "companies": [
+      "meta"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "geoffrey-hinton",
+    "name": "Geoffrey Hinton",
+    "title": "Cognitive Psychologist & Computer Scientist",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 78,
+    "companies": [
+      "google"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "andrej-karpathy",
+    "name": "Andrej Karpathy",
+    "title": "AI Researcher",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 39,
+    "companies": [
+      "tesla",
+      "openai"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "demis-hassabis",
+    "name": "Demis Hassabis",
+    "title": "CEO, DeepMind",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 49,
+    "companies": [
+      "deepmind",
+      "google"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "dario-amodei",
+    "name": "Dario Amodei",
+    "title": "CEO, Anthropic",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 0,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "reed-hastings",
+    "name": "Reed Hastings",
+    "title": "Co-founder, Netflix",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 65,
+    "companies": [
+      "netflix"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "marc-andreessen",
+    "name": "Marc Andreessen",
+    "title": "Co-founder, a16z",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 54,
+    "companies": [
+      "a16z"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "paul-graham",
+    "name": "Paul Graham",
+    "title": "Co-founder, Y Combinator",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 61,
+    "companies": [
+      "y-combinator"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "patrick-collison",
+    "name": "Patrick Collison",
+    "title": "CEO, Stripe",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 37,
+    "companies": [
+      "stripe"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "vitalik-buterin",
+    "name": "Vitalik Buterin",
+    "title": "Co-founder, Ethereum",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 32,
+    "companies": [
+      "ethereum"
+    ],
+    "education": "TBD",
+    "socials": {}
+  },
+  {
+    "slug": "arvind-krishna",
+    "name": "Arvind Krishna",
+    "title": "CEO, IBM",
+    "bio": "",
+    "netWorth": "TBD",
+    "age": 0,
+    "companies": [
+      "ibm"
+    ],
+    "education": "TBD",
+    "socials": {}
+  }
+]

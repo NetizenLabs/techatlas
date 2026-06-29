@@ -1,0 +1,276 @@
+[
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "founded": 2015,
+    "founders": [
+      "sam-altman",
+      "greg-brockman",
+      "ilya-sutskever"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "1,000+",
+    "funding": "$13B+",
+    "valuation": "$86B+",
+    "description": "OpenAI is an American artificial intelligence (AI) research organization headquartered in San Francisco, consisting of OpenAI Group PBC, a for-profit public benefit corporation (PBC), partially controlled by OpenAI Foundation, a nonprofit. OpenAI develops generative AI models, particularly the GPT series of large language models. Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom, and widespread interest in generative AI.",
+    "website": "https://openai.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "nvidia",
+    "name": "NVIDIA",
+    "founded": 1993,
+    "founders": [
+      "jensen-huang"
+    ],
+    "headquarters": "Santa Clara, CA",
+    "employees": "29,600+",
+    "funding": "Public",
+    "valuation": "$2T+",
+    "description": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, artificial intelligence (AI), and mobile and automotive applications. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, Nvidia has been widely described as a Big Tech company.",
+    "website": "https://nvidia.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "founded": 1998,
+    "founders": [
+      "larry-page",
+      "sergey-brin"
+    ],
+    "headquarters": "Mountain View, CA",
+    "employees": "180,000+",
+    "funding": "Public",
+    "valuation": "$1.7T+",
+    "description": "Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company.",
+    "website": "https://google.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "founded": 1975,
+    "founders": [
+      "bill-gates",
+      "paul-allen"
+    ],
+    "headquarters": "Redmond, WA",
+    "employees": "220,000+",
+    "funding": "Public",
+    "valuation": "$3T+",
+    "description": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+    "website": "https://microsoft.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "meta",
+    "name": "Meta",
+    "founded": 2004,
+    "founders": [
+      "mark-zuckerberg"
+    ],
+    "headquarters": "Menlo Park, CA",
+    "employees": "67,000+",
+    "funding": "Public",
+    "valuation": "$1.2T+",
+    "description": "",
+    "website": "https://meta.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "founded": 1994,
+    "founders": [
+      "jeff-bezos"
+    ],
+    "headquarters": "Seattle, WA",
+    "employees": "1,500,000+",
+    "funding": "Public",
+    "valuation": "$1.8T+",
+    "description": "Amazon most often refers to:Amazon rainforest, a rainforest covering most of the Amazon basin\nAmazon (company), an American multinational technology and retail company\nAmazon River, in South America\nAmazons, a tribe of female warriors in Greek mythology",
+    "website": "https://amazon.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "apple",
+    "name": "Apple",
+    "founded": 1976,
+    "founders": [
+      "steve-jobs",
+      "steve-wozniak",
+      "ronald-wayne"
+    ],
+    "headquarters": "Cupertino, CA",
+    "employees": "161,000+",
+    "funding": "Public",
+    "valuation": "$2.6T+",
+    "description": "An apple is the round, edible fruit of an apple tree. Fruit trees of the orchard or domestic apple, the most widely grown in the genus, are cultivated worldwide. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia before they were introduced to North America by European colonists. Apples have cultural significance in many mythologies and religions.",
+    "website": "https://apple.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "founded": 2003,
+    "founders": [
+      "elon-musk",
+      "martin-eberhard",
+      "marc-tarpenning"
+    ],
+    "headquarters": "Austin, TX",
+    "employees": "140,000+",
+    "funding": "Public",
+    "valuation": "$500B+",
+    "description": "Tesla most commonly refers to:Nikola Tesla (1856–1943), a Serbian-American electrical engineer and inventor\nTesla, Inc., an American electric vehicle and clean energy company, formerly Tesla Motors, Inc.\nTesla (unit), the SI-derived unit of magnetic flux density",
+    "website": "https://tesla.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "founded": 2021,
+    "founders": [
+      "dario-amodei",
+      "daniela-amodei"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "300+",
+    "funding": "$7.3B+",
+    "valuation": "$18B+",
+    "description": "Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco, California. It has developed a series of large language models (LLMs) named Claude and has a focus on AI safety. Anthropic was founded in 2021 by former members of OpenAI, including siblings Daniela Amodei and Dario Amodei, who are president and CEO, respectively. The company is privately held but plans to go public. It had an estimated valuation of $965 billion in May 2026, making it the most valuable pure-play AI company in the world.",
+    "website": "https://anthropic.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "deepmind",
+    "name": "DeepMind",
+    "founded": 2010,
+    "founders": [
+      "demis-hassabis",
+      "shane-legg",
+      "mustafa-suleyman"
+    ],
+    "headquarters": "London, UK",
+    "employees": "1,000+",
+    "funding": "Acquired by Google",
+    "valuation": "N/A",
+    "description": "",
+    "website": "https://deepmind.google",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "founded": 2016,
+    "founders": [
+      "clement-delangue",
+      "julien-chaumond",
+      "thomas-wolf"
+    ],
+    "headquarters": "New York, NY",
+    "employees": "170+",
+    "funding": "$395M+",
+    "valuation": "$4.5B+",
+    "description": "Hugging Face, Inc., is an American company based in New York City that develops computation tools for building applications using machine learning. Its transformers library built for natural language processing applications and its platform allow users to share machine learning models and datasets and showcase their work.",
+    "website": "https://huggingface.co",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "founded": 2010,
+    "founders": [
+      "patrick-collison",
+      "john-collison"
+    ],
+    "headquarters": "San Francisco, CA & Dublin, Ireland",
+    "employees": "7,000+",
+    "funding": "$8.7B+",
+    "valuation": "$65B+",
+    "description": "Stripe, striped, or stripes may refer to:",
+    "website": "https://stripe.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare",
+    "founded": 2009,
+    "founders": [
+      "matthew-prince",
+      "lee-holloway",
+      "michelle-zatlyn"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "3,000+",
+    "funding": "Public",
+    "valuation": "$30B+",
+    "description": "",
+    "website": "https://cloudflare.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "founded": 2015,
+    "founders": [
+      "guillermo-rauch"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "400+",
+    "funding": "$313M+",
+    "valuation": "$2.5B+",
+    "description": "",
+    "website": "https://vercel.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "founded": 2008,
+    "founders": [
+      "tom-preston-werner",
+      "chris-wanstrath",
+      "pj-hyett"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "3,000+",
+    "funding": "Acquired by Microsoft",
+    "valuation": "$7.5B (at acquisition)",
+    "description": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub, headquartered in San Francisco, is operated by Github, Inc., a subsidiary of Microsoft since 2018.",
+    "website": "https://github.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "docker",
+    "name": "Docker",
+    "founded": 2013,
+    "founders": [
+      "solomon-hykes"
+    ],
+    "headquarters": "Palo Alto, CA",
+    "employees": "300+",
+    "funding": "$280M+",
+    "valuation": "$2.1B+",
+    "description": "Docker most often refers to:A dockworker, a manual laborer who is involved in loading and unloading ships, also called a longshoreman or stevedore\nDocker (software), an open-source software project automating the deployment of applications inside software containers\nDocker, Inc., the company promoting Docker software",
+    "website": "https://docker.com",
+    "lastUpdated": "2026-06-28"
+  },
+  {
+    "slug": "hashicorp",
+    "name": "HashiCorp",
+    "founded": 2012,
+    "founders": [
+      "mitchell-hashimoto",
+      "armon-dadgar"
+    ],
+    "headquarters": "San Francisco, CA",
+    "employees": "2,200+",
+    "funding": "Public",
+    "valuation": "$5B+",
+    "description": "",
+    "website": "https://hashicorp.com",
+    "lastUpdated": "2026-06-28"
+  }
+]
