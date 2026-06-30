@@ -18,9 +18,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
   
+  const hasCompanies = topic.relatedCompanies.length > 0;
+  
   return {
     title: `${topic.name} Companies & Landscape | TechAtlas`,
     description: topic.description,
+    ...(!hasCompanies && {
+      robots: {
+        index: false,
+        follow: true,
+      },
+    }),
   };
 }
 

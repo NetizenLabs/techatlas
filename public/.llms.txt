@@ -1,0 +1,14 @@
+# TechAtlas
+
+> TechAtlas is a curated directory and intelligence hub mapping AI researchers, founders, startups, and emerging technology topics, with dynamically integrated real-time news feeds.
+
+## Core Directories
+
+- [People Directory](https://tech.netizenlabs.online/person): Key figures, builders, and AI researchers with career timelines, achievements, net worth estimations, and corporate affiliations.
+- [Companies Directory](https://tech.netizenlabs.online/company): Startups and tech organizations with founding stories, timeline milestones, funding round histories, and competitors.
+- [Topics Directory](https://tech.netizenlabs.online/topic): Emerging technology landscapes (e.g., Artificial Intelligence, DevOps, Vector Databases) mapping relevant active companies.
+- [News Hub](https://tech.netizenlabs.online/news): Real-time aggregated AI and tech news feeds dynamically cross-referenced with related companies and builders in the database.
+
+## System Architecture
+
+TechAtlas is built with a relational data graph. Each company links to its founders and competitors, and each person links to their associated companies and related figures. Live aggregated news stories automatically detect and cross-link to mentioned entities, creating a cohesive, searchable graph of the tech industry.

@@ -8,7 +8,7 @@ export const metadata = {
 };
 
 export default function TopicsIndexPage() {
-  const topics = getTopics();
+  const topics = getTopics().filter(t => t.relatedCompanies.length > 0);
 
   return (
     <div className="max-w-3xl space-y-10">

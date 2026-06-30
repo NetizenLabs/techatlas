@@ -14,7 +14,7 @@ export default async function Home({ searchParams }: Props) {
 
   const allPersons = getPersons();
   const allCompanies = getCompanies();
-  const allTopics = getTopics();
+  const allTopics = getTopics().filter(t => t.relatedCompanies.length > 0);
   
   // Fetch live aggregated RSS news
   const allNews = await getNewsArticles();

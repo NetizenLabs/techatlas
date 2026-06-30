@@ -70,13 +70,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  // Topic routes
-  const topicRoutes: MetadataRoute.Sitemap = topics.map((topic) => ({
-    url: `${BASE_URL}/topic/${topic.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: 0.7,
-  }));
+  // Topic routes (excluding empty topics)
+  const topicRoutes: MetadataRoute.Sitemap = topics
+    .filter((topic) => topic.relatedCompanies.length > 0)
+    .map((topic) => ({
+      url: `${BASE_URL}/topic/${topic.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.7,
+    }));
 
   return [...routes, ...personRoutes, ...companyRoutes, ...topicRoutes];
 }
