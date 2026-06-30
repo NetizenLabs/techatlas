@@ -14,7 +14,58 @@
     "valuation": "$86B+",
     "description": "OpenAI is an American artificial intelligence (AI) research organization headquartered in San Francisco, consisting of OpenAI Group PBC, a for-profit public benefit corporation (PBC), partially controlled by OpenAI Foundation, a nonprofit. OpenAI develops generative AI models, particularly the GPT series of large language models. Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom, and widespread interest in generative AI.",
     "website": "https://openai.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "OpenAI was founded in December 2015 by Sam Altman, Elon Musk, Ilya Sutskever, and others. Initially a non-profit, its mission was to ensure that artificial general intelligence (AGI) benefits all of humanity. It later transitioned to a capped-profit structure to raise the capital required for massive compute resources.",
+    "milestones": [
+      {
+        "year": "2015",
+        "event": "Founded as a non-profit"
+      },
+      {
+        "year": "2019",
+        "event": "Transitioned to capped-profit structure; Microsoft invested "
+      },
+      {
+        "year": "2020",
+        "event": "Released GPT-3"
+      },
+      {
+        "year": "2022",
+        "event": "Launched ChatGPT, reaching 100M users rapidly"
+      },
+      {
+        "year": "2023",
+        "event": "Released GPT-4; Microsoft invested additional "
+      }
+    ],
+    "products": [
+      "ChatGPT",
+      "DALL-E",
+      "Sora",
+      "Whisper"
+    ],
+    "fundingHistory": [
+      {
+        "round": "Seed",
+        "amount": "$1B",
+        "date": "2015"
+      },
+      {
+        "round": "Corporate Round",
+        "amount": "$1B",
+        "date": "2019"
+      },
+      {
+        "round": "Corporate Round",
+        "amount": "$10B",
+        "date": "2023"
+      }
+    ],
+    "competitors": [
+      "anthropic",
+      "google",
+      "meta"
+    ]
   },
   {
     "slug": "nvidia",
@@ -29,7 +80,23 @@
     "valuation": "$2T+",
     "description": "Nvidia Corporation is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, artificial intelligence (AI), and mobile and automotive applications. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, Nvidia has been widely described as a Big Tech company.",
     "website": "https://nvidia.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem at a Denny's restaurant. They foresaw that the right computing model could solve problems general-purpose computing couldn't, leading to the invention of the GPU in 1999.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Series A",
+        "amount": "$20M",
+        "date": "1993"
+      },
+      {
+        "round": "IPO",
+        "amount": "$42M",
+        "date": "1999"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "google",
@@ -45,7 +112,28 @@
     "valuation": "$1.7T+",
     "description": "Google LLC is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Google's parent company Alphabet Inc. has been described as a Big Tech company.",
     "website": "https://google.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Larry Page and Sergey Brin met at Stanford University in 1995. They built a search engine that used links to determine the importance of individual pages on the World Wide Web, calling it BackRub, which was shortly after renamed Google.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Seed",
+        "amount": "$100K",
+        "date": "1998"
+      },
+      {
+        "round": "Series A",
+        "amount": "$25M",
+        "date": "1999"
+      },
+      {
+        "round": "IPO",
+        "amount": "$1.67B",
+        "date": "2004"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "microsoft",
@@ -61,7 +149,18 @@
     "valuation": "$3T+",
     "description": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
     "website": "https://microsoft.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Childhood friends Bill Gates and Paul Allen founded Microsoft in 1975 to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "IPO",
+        "amount": "$61M",
+        "date": "1986"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "meta",
@@ -74,9 +173,30 @@
     "employees": "67,000+",
     "funding": "Public",
     "valuation": "$1.2T+",
-    "description": "",
+    "description": "Meta most commonly refers to:Meta (prefix), a common affix and word in English \nMeta Platforms, an American multinational technology conglomerate ",
     "website": "https://meta.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Mark Zuckerberg launched \"Thefacebook\" from his Harvard dorm room in 2004. Initially restricted to Harvard students, it rapidly expanded to other universities and eventually the general public, becoming the dominant global social network.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Angel",
+        "amount": "$500K",
+        "date": "2004"
+      },
+      {
+        "round": "Series A",
+        "amount": "$12.7M",
+        "date": "2005"
+      },
+      {
+        "round": "IPO",
+        "amount": "$16B",
+        "date": "2012"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "amazon",
@@ -91,7 +211,12 @@
     "valuation": "$1.8T+",
     "description": "Amazon most often refers to:Amazon rainforest, a rainforest covering most of the Amazon basin\nAmazon (company), an American multinational technology and retail company\nAmazon River, in South America\nAmazons, a tribe of female warriors in Greek mythology",
     "website": "https://amazon.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "apple",
@@ -108,7 +233,12 @@
     "valuation": "$2.6T+",
     "description": "An apple is the round, edible fruit of an apple tree. Fruit trees of the orchard or domestic apple, the most widely grown in the genus, are cultivated worldwide. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia before they were introduced to North America by European colonists. Apples have cultural significance in many mythologies and religions.",
     "website": "https://apple.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "tesla",
@@ -125,7 +255,12 @@
     "valuation": "$500B+",
     "description": "Tesla most commonly refers to:Nikola Tesla (1856–1943), a Serbian-American electrical engineer and inventor\nTesla, Inc., an American electric vehicle and clean energy company, formerly Tesla Motors, Inc.\nTesla (unit), the SI-derived unit of magnetic flux density",
     "website": "https://tesla.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "anthropic",
@@ -141,7 +276,28 @@
     "valuation": "$18B+",
     "description": "Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco, California. It has developed a series of large language models (LLMs) named Claude and has a focus on AI safety. Anthropic was founded in 2021 by former members of OpenAI, including siblings Daniela Amodei and Dario Amodei, who are president and CEO, respectively. The company is privately held but plans to go public. It had an estimated valuation of $965 billion in May 2026, making it the most valuable pure-play AI company in the world.",
     "website": "https://anthropic.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Founded in 2021 by former senior members of OpenAI, including siblings Daniela and Dario Amodei. Anthropic was created to focus intensely on AI safety and reliability, leading to the development of Constitutional AI.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Series A",
+        "amount": "$124M",
+        "date": "2021"
+      },
+      {
+        "round": "Series B",
+        "amount": "$580M",
+        "date": "2022"
+      },
+      {
+        "round": "Corporate",
+        "amount": "$4B",
+        "date": "2023"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "deepmind",
@@ -158,7 +314,23 @@
     "valuation": "N/A",
     "description": "",
     "website": "https://deepmind.google",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Founded in London in 2010 by Demis Hassabis, Shane Legg, and Mustafa Suleyman. DeepMind aimed to \"solve intelligence\" and use it to solve everything else, combining systems neuroscience with machine learning.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Seed",
+        "amount": "$50M",
+        "date": "2010"
+      },
+      {
+        "round": "Acquisition",
+        "amount": "$500M",
+        "date": "2014"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "hugging-face",
@@ -175,7 +347,28 @@
     "valuation": "$4.5B+",
     "description": "Hugging Face, Inc., is an American company based in New York City that develops computation tools for building applications using machine learning. Its transformers library built for natural language processing applications and its platform allow users to share machine learning models and datasets and showcase their work.",
     "website": "https://huggingface.co",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Founded in 2016 by Clément Delangue, Julien Chaumond, and Thomas Wolf. Originally started as a chatbot company, they open-sourced their underlying NLP library (Transformers) which rapidly became the central hub for machine learning models.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Series A",
+        "amount": "$15M",
+        "date": "2019"
+      },
+      {
+        "round": "Series C",
+        "amount": "$100M",
+        "date": "2022"
+      },
+      {
+        "round": "Series D",
+        "amount": "$235M",
+        "date": "2023"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "stripe",
@@ -191,7 +384,28 @@
     "valuation": "$65B+",
     "description": "Stripe, striped, or stripes may refer to:",
     "website": "https://stripe.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Irish brothers Patrick and John Collison founded Stripe in 2010. Frustrated by the difficulty of setting up online payments for their previous startups, they wrote a few lines of code that allowed any website to accept payments instantly.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Seed",
+        "amount": "$2M",
+        "date": "2011"
+      },
+      {
+        "round": "Series C",
+        "amount": "$80M",
+        "date": "2014"
+      },
+      {
+        "round": "Series I",
+        "amount": "$6.5B",
+        "date": "2023"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "cloudflare",
@@ -206,9 +420,14 @@
     "employees": "3,000+",
     "funding": "Public",
     "valuation": "$30B+",
-    "description": "",
+    "description": "Cloudflare, Inc., is an American technology company headquartered in San Francisco, California, that provides a range of internet services, including content delivery network (CDN) services, cloud cybersecurity, DDoS mitigation, and ICANN-accredited domain registration. The company's services act primarily as a reverse proxy between website visitors and a customer's hosting provider, improving performance and protecting against malicious traffic.",
     "website": "https://cloudflare.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "vercel",
@@ -223,7 +442,28 @@
     "valuation": "$2.5B+",
     "description": "",
     "website": "https://vercel.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "Guillermo Rauch founded Vercel (originally ZEIT) in 2015. Vercel created Next.js, an open-source React framework, and built a global edge network to make deploying frontend applications frictionless.",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [
+      {
+        "round": "Series A",
+        "amount": "$21M",
+        "date": "2020"
+      },
+      {
+        "round": "Series B",
+        "amount": "$40M",
+        "date": "2020"
+      },
+      {
+        "round": "Series D",
+        "amount": "$150M",
+        "date": "2022"
+      }
+    ],
+    "competitors": []
   },
   {
     "slug": "github",
@@ -240,7 +480,12 @@
     "valuation": "$7.5B (at acquisition)",
     "description": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub, headquartered in San Francisco, is operated by Github, Inc., a subsidiary of Microsoft since 2018.",
     "website": "https://github.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "docker",
@@ -255,7 +500,12 @@
     "valuation": "$2.1B+",
     "description": "Docker most often refers to:A dockworker, a manual laborer who is involved in loading and unloading ships, also called a longshoreman or stevedore\nDocker (software), an open-source software project automating the deployment of applications inside software containers\nDocker, Inc., the company promoting Docker software",
     "website": "https://docker.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   },
   {
     "slug": "hashicorp",
@@ -269,8 +519,30 @@
     "employees": "2,200+",
     "funding": "Public",
     "valuation": "$5B+",
-    "description": "",
+    "description": "HashiCorp, Inc. is an American software company and subsidiary of IBM based in San Francisco, California. HashiCorp provides tools and products that enable developers, operators and security professionals to provision, secure, run and connect cloud-computing infrastructure. It was founded in 2012 by Mitchell Hashimoto and Armon Dadgar. The company name HashiCorp is a portmanteau of co-founder last name Hashimoto and Corporation.",
     "website": "https://hashicorp.com",
-    "lastUpdated": "2026-06-28"
+    "lastUpdated": "2026-06-29",
+    "foundingStory": "",
+    "milestones": [
+      {
+        "year": "2012",
+        "event": "It was founded in 2012 by Mitchell Hashimoto and Armon Dadgar."
+      },
+      {
+        "year": "2021",
+        "event": "On 29 November 2021, HashiCorp set terms for its IPO at $68-$72 at a valuation of $13 billion."
+      },
+      {
+        "year": "2023",
+        "event": "Mitchell Hashimoto resigned from the company in December 2023."
+      },
+      {
+        "year": "2024",
+        "event": "On April 24, 2024, the company announced it had entered into an agreement to be acquired by IBM for $6.4 billion, with the transaction expected to close by the end of the same year."
+      }
+    ],
+    "products": [],
+    "fundingHistory": [],
+    "competitors": []
   }
 ]

@@ -3,7 +3,7 @@
     "slug": "sam-altman",
     "name": "Sam Altman",
     "title": "CEO, OpenAI",
-    "bio": "",
+    "bio": "Samuel Harris Altman is an American entrepreneur and investor who has been the chief executive officer (CEO) of the artificial intelligence company OpenAI since 2019.",
     "netWorth": "$2B+",
     "age": 41,
     "companies": [
@@ -14,26 +14,145 @@
     "education": "Stanford University (Dropout)",
     "socials": {
       "twitter": "https://twitter.com/sama"
-    }
+    },
+    "careerTimeline": [
+      {
+        "year": "1985",
+        "event": "Samuel Harris Altman (born April 22, 1985) is an American entrepreneur and investor who has been the chief executive officer (CEO) of the artificial intelligence company OpenAI since 2019."
+      },
+      {
+        "year": "2005",
+        "event": "In 2005, after studying computer science for two years at Stanford University in Stanford, California, he dropped out without earning a bachelor's degree."
+      },
+      {
+        "year": "2011",
+        "event": "In 2011, Altman became a partner at startup accelerator Y Combinator (YC), initially working on a part-time basis."
+      },
+      {
+        "year": "2012",
+        "event": "Loopt was acquired by Green Dot Corporation for $43.4 million in March 2012."
+      },
+      {
+        "year": "2014",
+        "event": "For eight days in 2014, Altman was the CEO of Reddit, a social media company, after CEO Yishan Wong resigned."
+      },
+      {
+        "year": "2015",
+        "event": "Altman co-founded OpenAI in 2015 and became its CEO in 2019, a role that made him a prominent figure of the AI boom."
+      },
+      {
+        "year": "2017",
+        "event": "Like Danzeisen, Altman was mentioned as a friend in Thiel's circle by BuzzFeed News in 2017."
+      },
+      {
+        "year": "2018",
+        "event": "Altman had contemplated running for governor of California in the 2018 election, but later decided not to enter."
+      }
+    ],
+    "achievements": [
+      "Scaled Y Combinator to fund hundreds of prominent startups",
+      "Led OpenAI through the launch of ChatGPT",
+      "Co-founded Worldcoin to distribute a global digital currency"
+    ],
+    "quotes": [
+      {
+        "text": "I prep for survival. I have guns, gold, potassium iodide, antibiotics, batteries, water, gas masks from the Israeli Defense Force and a big patch of land in Big Sur I can fly to.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "The Context By David Wallace-Wells, The AI Backlash Will Be Ugly and No One is Ready. Not Even Tech C.E.O.s., The New York Times Magazine (17 May 2026)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "We are already in the phase of co-evolution — the AIs affect, effect, and infect us, and then we improve the AI. We build more computing power and run the AI on it, and it figures out how to build even better chips.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [
+      "greg-brockman",
+      "ilya-sutskever"
+    ],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "jensen-huang",
     "name": "Jensen Huang",
     "title": "CEO, NVIDIA",
-    "bio": "",
+    "bio": "Jen-Hsun \"Jensen\" Huang is a Taiwanese and American business executive and electrical engineer who is the founder, president, and CEO of Nvidia, the world's most valuable company. As of 2026, Forbes estimates his net worth at over US$200 billion, making him the seventh-wealthiest individual in the world.",
     "netWorth": "$100B+",
     "age": 63,
     "companies": [
       "nvidia"
     ],
     "education": "Oregon State University, Stanford University",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1963",
+        "event": "Huang was born in Taipei, Taiwan, on February 17, 1963, and moved to the southern city of Tainan as a child."
+      },
+      {
+        "year": "1973",
+        "event": "He and his older brother moved in 1973 to live with an uncle in Tacoma, Washington, escaping widespread social unrest in Thailand."
+      },
+      {
+        "year": "1977",
+        "event": "In 1977, the school purchased an Apple II computer."
+      },
+      {
+        "year": "1978",
+        "event": "Beginning at age 15, Huang got his first job working the graveyard shift at a local Denny's restaurant as a dishwasher, busboy, and waiter from 1978 to 1983."
+      },
+      {
+        "year": "1984",
+        "event": "During his time at AMD in 1984, Huang, who grew up speaking Taiwanese Hokkien, began learning Mandarin Chinese in order to communicate with Chinese photomask workers employed at the company."
+      },
+      {
+        "year": "1989",
+        "event": "In 1989, Huang, Malachowsky, and Priem finalized the accelerator, which they called the \"GX graphics engine\"."
+      },
+      {
+        "year": "1990",
+        "event": "When business began to slow for Sun Microsystems after 1990, Huang, along with Priem and Malachowsky, each resigned their jobs to pursue a venture together in making graphics chips for PC games."
+      },
+      {
+        "year": "1993",
+        "event": "After earning a master's degree from Stanford University, Huang launched Nvidia in 1993 from a Denny's restaurant in San Jose, California, at age 30 and has remained its president and CEO ever since."
+      }
+    ],
+    "achievements": [
+      "Invented the GPU, transforming computer graphics and gaming",
+      "Positioned NVIDIA as the hardware backbone of the AI revolution",
+      "Maintained CEO position for over 30 years since founding NVIDIA"
+    ],
+    "quotes": [
+      {
+        "text": "\"You benefit from the kindness of all the people that support you.\"",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "\"Nvidia ft. Jensen Huang - An overnight success story 30 years in the making\" on Crucible Moments Podcast, found on DeepCast (30 November 2023)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "\"Your organization should be the architecture of the machinery of building the product.\"",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "elon-musk",
     "name": "Elon Musk",
     "title": "CEO, Tesla & SpaceX",
-    "bio": "",
+    "bio": "Elon Reeve Musk is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the first and only trillionaire in terms of US dollars in mid June 2026; however as of June 21, 2026, Forbes estimates his net worth to be US$951 billion.",
     "netWorth": "TBD",
     "age": 55,
     "companies": [
@@ -42,98 +161,469 @@
       "x"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1950",
+        "event": "Haldeman, who died in a plane crash when Musk was a toddler, was an American-born Canadian chiropractor, aviator and political activist in the Technocracy movement who moved to South Africa in 1950."
+      },
+      {
+        "year": "1971",
+        "event": "Elon Reeve Musk (/ˈiːlɒn/ ⓘ EE-lon; born June 28, 1971) is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX."
+      },
+      {
+        "year": "1979",
+        "event": "After his parents divorced in 1979, Musk, aged around 9, chose to live with his father because he had an Encyclopædia Britannica set and a computer."
+      },
+      {
+        "year": "1983",
+        "event": "At age twelve, in 1983, Musk sold his BASIC-based game Blastar to PC and Office Technology magazine for approximately $500 (equivalent to $1,600 in 2025)."
+      },
+      {
+        "year": "1989",
+        "event": "Born into the wealthy Musk family in Pretoria, South Africa, Musk emigrated in 1989 to Canada; he has Canadian citizenship since his mother was born there."
+      },
+      {
+        "year": "1995",
+        "event": "In 1995, Musk, his brother Kimbal, and Greg Kouri founded Zip2, a web software company, with funding from a group of angel investors."
+      },
+      {
+        "year": "1999",
+        "event": "Compaq acquired Zip2 for $307 million in cash in February 1999 (equivalent to $590,000,000 in 2025), and Musk received $22 million (equivalent to $43,000,000 in 2025) for his 7-percent share."
+      },
+      {
+        "year": "2001",
+        "event": "In 2001, Musk became involved with the nonprofit Mars Society and discussed funding plans to place a growth-chamber for plants on Mars."
+      }
+    ],
+    "achievements": [
+      "Pioneered reusable rocket technology with SpaceX",
+      "Accelerated global transition to electric vehicles via Tesla",
+      "Co-founded PayPal, revolutionizing online payments"
+    ],
+    "quotes": [
+      {
+        "text": "I think the Internet is the super-set of all media. It is the be-all and the end-all of all media. One will see print, broadcast, arguably, radio, essentially all media folding into the Internet.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Quoted in \"Elon Musk Explains Internet in 1998, Old Interview Goes Viral\", News 18 (February 17, 2023)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "If things aren't not failing you are not innovating enough.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "sundar-pichai",
     "name": "Sundar Pichai",
     "title": "CEO, Alphabet",
-    "bio": "",
+    "bio": "Pichai Sundararajan, better known as Sundar Pichai, is an Indian–American business executive who has been the CEO of Google since 2015 and the CEO of its parent company Alphabet Inc. since 2019.",
     "netWorth": "TBD",
     "age": 54,
     "companies": [
       "google"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1972",
+        "event": "Pichai was born on June 10, 1972 in Madurai, Tamil Nadu, to a Tamil Hindu family."
+      },
+      {
+        "year": "1993",
+        "event": "He earned a B.Tech in metallurgical engineering from IIT Kharagpur in 1993."
+      },
+      {
+        "year": "2013",
+        "event": "On March 13, 2013, Pichai added Android to the list of Google products that he oversaw."
+      },
+      {
+        "year": "2014",
+        "event": "Pichai had been suggested as a contender for Microsoft's CEO in 2014, a position that was eventually given to Satya Nadella."
+      },
+      {
+        "year": "2016",
+        "event": "Pichai was included in Time's annual list of the 100 most influential people in 2016 and 2020."
+      },
+      {
+        "year": "2017",
+        "event": "Pichai was appointed to the Alphabet Board of Directors in 2017."
+      },
+      {
+        "year": "2019",
+        "event": "In December 2019, Pichai became the CEO of Alphabet Inc."
+      },
+      {
+        "year": "2022",
+        "event": "In 2022, Pichai received the Padma Bhushan in the category of Trade and Industry from the Government of India, the country's third-highest civilian award."
+      }
+    ],
+    "achievements": [
+      "Led development of Google Chrome, the world's most popular browser",
+      "Oversaw Android's dominance in the global smartphone market",
+      "Guided Google's strategic pivot into an \"AI-first\" company"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "satya-nadella",
     "name": "Satya Nadella",
     "title": "CEO, Microsoft",
-    "bio": "",
+    "bio": "Satya Narayana Nadella is an Indian-American business executive. He is the chairman and chief executive officer (CEO) of Microsoft, succeeding Steve Ballmer in 2014 as CEO and John W. Thompson in 2021 as chairman. Before becoming CEO, he was the executive vice president of Microsoft's cloud and enterprise group, responsible for building and running the company's computing platforms.",
     "netWorth": "TBD",
     "age": 58,
     "companies": [
       "microsoft"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1967",
+        "event": "Satya Narayana Nadella[a] (born 19 August 1967) is an Indian-American business executive."
+      },
+      {
+        "year": "1988",
+        "event": "Nadella attended the Hyderabad Public School, Begumpet before receiving a bachelor's degree in electrical engineering from the Manipal Institute of Technology in Karnataka in 1988."
+      },
+      {
+        "year": "1992",
+        "event": "Nadella worked at Sun Microsystems as a member of its technology staff before joining Microsoft in 1992."
+      },
+      {
+        "year": "2013",
+        "event": "The revenue from Cloud Services grew to $20.3 billion in June 2013 from $16.6 billion when he took over in 2011."
+      },
+      {
+        "year": "2014",
+        "event": "On 4 February 2014, Nadella was announced as the new CEO of Microsoft, the third CEO in the company's history, following Bill Gates and Steve Ballmer."
+      },
+      {
+        "year": "2016",
+        "event": "In contrast to previous Microsoft campaigns against the Linux operating system, Nadella proclaimed that \"Microsoft ❤️ Linux\", and Microsoft joined the Linux Foundation as a Platinum member in 2016."
+      },
+      {
+        "year": "2017",
+        "event": "In 2017, Nadella published a book titled Hit Refresh, exploring his life and career at Microsoft."
+      },
+      {
+        "year": "2018",
+        "event": "In 2018 and 2024, Nadella was a Time 100 honoree."
+      }
+    ],
+    "achievements": [
+      "Successfully transitioned Microsoft into a Cloud-first company (Azure)",
+      "Orchestrated strategic acquisitions of LinkedIn and GitHub",
+      "Forged a multi-billion dollar exclusive partnership with OpenAI"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "mark-zuckerberg",
     "name": "Mark Zuckerberg",
     "title": "CEO, Meta",
-    "bio": "",
+    "bio": "Mark Elliot Zuckerberg is an American businessman and programmer who co-founded the social media service Facebook and its parent company Meta Platforms. He is its chairman, chief executive officer (CEO), and controlling shareholder.",
     "netWorth": "TBD",
     "age": 42,
     "companies": [
       "meta"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1984",
+        "event": "Mark Elliot Zuckerberg (/ˈzʌkərbɜːrɡ/; born May 14, 1984) is an American businessman and programmer who co-founded the social media service Facebook and its parent company Meta Platforms."
+      },
+      {
+        "year": "2002",
+        "event": "The New Yorker noted that by the time Zuckerberg began classes at Harvard in 2002, he had already achieved a \"reputation as a programming prodigy\"."
+      },
+      {
+        "year": "2003",
+        "event": "They began dating in 2003."
+      },
+      {
+        "year": "2004",
+        "event": "Zuckerberg briefly attended Harvard College, and launched Facebook there in February 2004 with his roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes."
+      },
+      {
+        "year": "2005",
+        "event": "In 2005, Facebook co-founder Eduardo Saverin filed a lawsuit against Zuckerberg and Facebook, alleging that Zuckerberg had illegally spent Saverin's money on personal expenses."
+      },
+      {
+        "year": "2007",
+        "event": "In 2007, Zuckerberg was added to MIT Technology Review's TR35 list as one of the top 35 innovators in the world under the age of 35."
+      },
+      {
+        "year": "2008",
+        "event": "Time named Zuckerberg one of the most influential people in the world in 2008, 2011, 2016, 2019 and 2025, and nominated him as a finalist several other times."
+      },
+      {
+        "year": "2009",
+        "event": "Earlier, in April 2009, Zuckerberg had sought the advice of former Netscape CFO Peter Currie regarding financing strategies for Facebook."
+      }
+    ],
+    "achievements": [
+      "Built the largest social networking platform in history",
+      "Acquired and scaled Instagram and WhatsApp to billions of users",
+      "Pivoted Meta towards massive investments in VR and open-source AI (Llama)"
+    ],
+    "quotes": [
+      {
+        "text": "I understood that some parts were still a little sketchy and I wanted some more time to think about whether or not this was really appropriate to release to the Harvard community.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Issues about violating people’s privacy don't seem to be surmountable, I’m not willing to risk insulting anyone.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "\"Facemash Creator Survives Ad Board\" The Harvard Crimson (November 19, 2003)",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "jeff-bezos",
     "name": "Jeff Bezos",
     "title": "Founder, Amazon",
-    "bio": "",
+    "bio": "Jeffrey Preston Bezos is an American businessman, and the founder, executive chairman, and former president and CEO of Amazon, the world's largest e-commerce and cloud computing company. According to the Bloomberg Billionaires Index and Forbes, he was the world's wealthiest person from 2017 to 2021, and in 2026 his net worth was approximately US$284 billion.",
     "netWorth": "TBD",
     "age": 62,
     "companies": [
       "amazon"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1964",
+        "event": "Bezos was born Jeffrey Preston Jorgensen on January 12, 1964, in Albuquerque, New Mexico, to Jacklyn (née Gise) (1946–2025) and Ted Jorgensen (1944–2015)."
+      },
+      {
+        "year": "1965",
+        "event": "Jacklyn left her husband to live with her parents, filing for divorce in June 1965 when Jeff was 17 months old."
+      },
+      {
+        "year": "1982",
+        "event": "He was high school valedictorian, a National Merit Scholar, and a Silver Knight Award winner in 1982."
+      },
+      {
+        "year": "1986",
+        "event": "He graduated from Princeton University in 1986 with a degree in engineering."
+      },
+      {
+        "year": "1992",
+        "event": "In 1992, while working for D."
+      },
+      {
+        "year": "1994",
+        "event": "In spring 1994, Bezos read that web usage was growing at a rate of 2,300% a year and eventually decided to establish an online bookstore."
+      },
+      {
+        "year": "1997",
+        "event": "Bezos first became a millionaire in 1997 after raising $54 million (equivalent to $110,000,000 in 2025) through Amazon's initial public offering (IPO)."
+      },
+      {
+        "year": "1998",
+        "event": "In 1998, Bezos diversified into the online sale of music and video, and by the end of the year he had expanded the company's product offerings to include a variety of other consumer goods."
+      }
+    ],
+    "achievements": [],
+    "quotes": [
+      {
+        "text": "We’ve had three big ideas at Amazon that we’ve stuck with for 18 years, and they’re the reason we’re successful: Put the customer first. Invent. And be patient. If you replace ‘customer’ with ‘reader,’ that approach, that point of view, can be successful at The Post, too..",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Jeffrey Bezos, Washington Post’s next owner, aims for a new ‘golden era’ at the newspaper.   September 2013",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "That kind of divine discontent comes from observing customers and noticing that things can always be better.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "larry-page",
     "name": "Larry Page",
     "title": "Co-founder, Google",
-    "bio": "",
+    "bio": "Lawrence Edward Page is an American businessman and computer scientist who co-founded Google with Sergey Brin. Page is a centibillionaire and among the richest people in the world. As of 2026, Bloomberg Billionaires Index and Forbes estimated his net worth at US$334.1 billion, positioning him as the second-wealthiest individual in the world.",
     "netWorth": "TBD",
     "age": 53,
     "companies": [
       "google"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1973",
+        "event": "Lawrence Edward Page (born March 26, 1973) is an American businessman and computer scientist who co-founded Google with Sergey Brin."
+      },
+      {
+        "year": "1975",
+        "event": "Page attended Okemos Montessori School (now called Montessori Radmoor) in Okemos, Michigan, from ages two to seven (1975 to 1979)."
+      },
+      {
+        "year": "1979",
+        "event": "When Larry Page was six years old, in 1979, his father brought home an Exidy Sorcerer computer, which Larry soon mastered and began using for schoolwork."
+      },
+      {
+        "year": "1993",
+        "event": "Page served as the president of the Beta Epsilon chapter of the Eta Kappa Nu honor society, and was a member of the 1993 \"Maize & Blue\" University of Michigan Solar Car team."
+      },
+      {
+        "year": "1996",
+        "event": "In August 1996, the initial version of Google, still on the Stanford University website, was made available to Internet users."
+      },
+      {
+        "year": "1997",
+        "event": "By early 1997, the BackRub page described the state as follows:"
+      },
+      {
+        "year": "1998",
+        "event": "In 1998, Brin and Page incorporated Google, Inc."
+      },
+      {
+        "year": "2000",
+        "event": "By June 2000, Google had indexed one billion Internet URLs (Uniform Resource Locators), making it the most comprehensive search engine on the Web at the time."
+      }
+    ],
+    "achievements": [],
+    "quotes": [
+      {
+        "text": "The Star Trek computer doesn't seem that interesting. They ask it random questions, it thinks for a while. I think we can do better than that.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Quoted in Ben Elgin, \"Google's Goal: \"Understand Everything,\" BusinessWeek (2004-05-03).",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "I have a simple algorithm, which is, wherever you see paid researchers instead of grad students, that's not where you want to be doing research.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "sergey-brin",
     "name": "Sergey Brin",
     "title": "Co-founder, Google",
-    "bio": "",
+    "bio": "Sergey Mikhailovich Brin is an American computer scientist and businessman who co-founded Google with Larry Page. He was the president of Google's parent company, Alphabet Inc., until stepping down from the role in 2019. He and Page remain at Alphabet as co-founders, controlling shareholders, and board members. Brin is a centibillionaire and among the richest people in the world.",
     "netWorth": "TBD",
     "age": 52,
     "companies": [
       "google"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1973",
+        "event": "Sergey Mikhailovich Brin[a] (Russian: Сергей Михайлович Брин; born August 21, 1973) is an American computer scientist and businessman who co-founded Google with Larry Page."
+      },
+      {
+        "year": "1977",
+        "event": "In 1977, after returning from a mathematics conference in Warsaw, Poland, Mikhail announced that, because of antisemitism in the Soviet Union, it was time for the family to emigrate."
+      },
+      {
+        "year": "1979",
+        "event": "They arrived in the United States on October 25, 1979."
+      },
+      {
+        "year": "1993",
+        "event": "After graduation, in 1993, he enrolled in Stanford University to pursue a PhD in computer science."
+      },
+      {
+        "year": "1996",
+        "event": "In August 1996, the initial version of Google was made available on the Stanford Web site."
+      },
+      {
+        "year": "1997",
+        "event": "By early 1997, the Backrub page described the state as follows:"
+      },
+      {
+        "year": "1998",
+        "event": "PC Magazine has praised Google in the Top 100 Web Sites and Search Engines (1998) and awarded Google the Technical Excellence Award, for Innovation in Web Application Development in 1999."
+      },
+      {
+        "year": "2007",
+        "event": "In May 2007, Brin married biotech analyst and entrepreneur Anne Wojcicki in the Bahamas."
+      }
+    ],
+    "achievements": [],
+    "quotes": [
+      {
+        "text": "re gmail, great user experience has helped other email systems (others have increased storage etc). there are areas that have been overlooked in industry, much as search was overlooked in the 90's. thinks they have technology, distribution infrastructure to address those things.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Conversation: Sergey Brin of Google (October 7, 2005)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "When it’s too easy to get money, then you get a lot of noise mixed in with the real innovation and entrepreneurship. Tough times bring out the best parts of Silicon Valley.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "tim-cook",
     "name": "Tim Cook",
     "title": "CEO, Apple",
-    "bio": "",
+    "bio": "Timothy Donald Cook is an American business executive who has served as the chief executive officer (CEO) of Apple since 2011. He had previously been the company's chief operating officer under its co-founder Steve Jobs. Cook joined Apple in March 1998 as a senior vice president for worldwide operations, and then as vice president for worldwide sales and operations. He was appointed chief executive of Apple on August 24, 2011, after Jobs resigned.",
     "netWorth": "TBD",
     "age": 65,
     "companies": [
       "apple"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [
+      "Grew Apple into the world's first $3 Trillion company",
+      "Successfully launched the Apple Watch and AirPods product lines",
+      "Masterminded Apple's pivot towards high-margin services"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "linus-torvalds",
@@ -144,20 +634,34 @@
     "age": 56,
     "companies": [],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "yann-lecun",
     "name": "Yann LeCun",
     "title": "Chief AI Scientist, Meta",
-    "bio": "",
+    "bio": "Yann André Le Cun is a French-American computer scientist working in the fields of artificial intelligence, machine learning, computer vision, robotics and image compression. He is the Jacob T. Schwartz Professor of Computer Science at the Courant Institute of Mathematical Sciences at New York University. He served as Chief AI Scientist at Meta Platforms before co-founding Advanced Machine Intelligence Labs in December 2025.",
     "netWorth": "TBD",
     "age": 65,
     "companies": [
       "meta"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [
+      "Invented Convolutional Neural Networks (CNNs) for image recognition",
+      "Won the 2018 Turing Award for breakthroughs in deep learning",
+      "Pioneered Self-Supervised Learning research at Meta AI"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "geoffrey-hinton",
@@ -170,7 +674,12 @@
       "google"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "andrej-karpathy",
@@ -184,7 +693,12 @@
       "openai"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "demis-hassabis",
@@ -198,7 +712,16 @@
       "google"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [
+      "Co-founded DeepMind, solving grand challenges in AI",
+      "Led the team that created AlphaGo to defeat human Go champions",
+      "Developed AlphaFold, revolutionizing protein folding prediction in biology"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "dario-amodei",
@@ -212,7 +735,16 @@
       "openai"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [
+      "Led AI safety research at OpenAI prior to founding Anthropic",
+      "Developed Constitutional AI to create safer, steerable language models",
+      "Released the Claude family of models to directly rival GPT-4"
+    ],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "reed-hastings",
@@ -225,59 +757,182 @@
       "netflix"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "marc-andreessen",
     "name": "Marc Andreessen",
     "title": "Co-founder, a16z",
-    "bio": "",
+    "bio": "Marc Lowell Andreessen is an American businessman, venture capitalist, and former software engineer. He is the co-author of Mosaic, the first web browser to display inline images; co-founder of Netscape; and co-founder and general partner of Silicon Valley venture capital firm Andreessen Horowitz. He co-founded and later sold the software company Opsware to Hewlett-Packard; he also co-founded Ning, a company that provides a platform for social networking websites. In 2024, he became an advisor to Donald Trump. As of June 2026, Forbes estimated Andreessen's net worth at $1.9 billion.",
     "netWorth": "TBD",
     "age": 54,
     "companies": [
       "a16z"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1971",
+        "event": "Marc Lowell Andreessen (/ænˈdriːsən/ an-DREE-sən; born July 9, 1971) is an American businessman, venture capitalist, and former software engineer."
+      },
+      {
+        "year": "1993",
+        "event": "In December 1993, Andreessen received his bachelor's degree in computer science from the University of Illinois at Urbana–Champaign (UIUC)."
+      },
+      {
+        "year": "1994",
+        "event": "The NCSA though refused to give the Mosaic team credit for their contribution, so Andreessen, disillusioned, decided to leave the center in 1994."
+      },
+      {
+        "year": "1995",
+        "event": "— Bob Metcalfe, InfoWorld, August 21, 1995, Vol."
+      },
+      {
+        "year": "1998",
+        "event": "In 1998, Bloomberg reported that Jeff was a history major at the University of Wisconsin."
+      },
+      {
+        "year": "1999",
+        "event": "Netscape was acquired in 1999 for $4.3 billion by AOL."
+      },
+      {
+        "year": "2005",
+        "event": "Between 2005 and 2009, Andreessen and Horowitz separately invested a total of $80 million in 45 startups, including Twitter and Qik."
+      },
+      {
+        "year": "2006",
+        "event": "Andreessen married Laura Arrillaga in 2006."
+      }
+    ],
+    "achievements": [],
+    "quotes": [
+      {
+        "text": "[Netscape will soon reduce Windows to] a poorly debugged set of device drivers.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "1995 remark quoted in Ian Murdock, \"Windows as a poorly debugged set of device drivers?\", Ian Murdock's Weblog (2006-08-02); Andreessen in 2012 attributed the original quote to Bob Metcalfe, describing it as a \"retweet\".",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Why Software Is Eating The World in The Wall Street Journal by Marc Andreessen on August 20, 2011",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "paul-graham",
     "name": "Paul Graham",
     "title": "Co-founder, Y Combinator",
-    "bio": "",
+    "bio": "Paul Graham may refer to:Paul Graham (1892–1985), American college football player and coach\nPaul Graham, former NBA player\nPaul Graham, college basketball coach\nPaul Graham (bodybuilder), Australian professional wrestler and bodybuilder\nPaul Graham (novelist), American novelist\nPaul Graham (photographer), British photographer\nPaul Graham (programmer), Lisp programmer, venture capitalist, and essayist\nPaul Graham, Canadian television executive producer and network vice-president",
     "netWorth": "TBD",
     "age": 61,
     "companies": [
       "y-combinator"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [
+      {
+        "text": "\"Five Questions about Language Design\", May 2001",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Software has to be designed by hackers who understand design, not designers who know a little about software. If you can't design software as well as implement it, don't start a startup.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "patrick-collison",
     "name": "Patrick Collison",
     "title": "CEO, Stripe",
-    "bio": "",
+    "bio": "Patrick Collison is an Irish Billionaire entrepreneur. He is the chief executive officer of Stripe, which he co-founded with his younger brother, John, in 2010. He won the 41st Young Scientist and Technology Exhibition in 2005 at the age of sixteen. In 2020, he founded Fast Grants to fund COVID-19-related science with economist Tyler Cowen. In 2021, Collison co-founded Arc Institute, a nonprofit research organization, with bioscientists Silvana Konermann and Patrick Hsu. His net worth is estimated at $17.5 Billion according to Forbes as of June 2026.",
     "netWorth": "TBD",
     "age": 37,
     "companies": [
       "stripe"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1988",
+        "event": "Patrick Collison (born 9 September 1988) is an Irish Billionaire entrepreneur."
+      },
+      {
+        "year": "2005",
+        "event": "He re-entered the following year, and won first place at the age of sixteen on 14 January 2005."
+      },
+      {
+        "year": "2008",
+        "event": "On Good Friday of March 2008, Collison, aged nineteen, and his brother, aged seventeen, sold Auctomatic to Canadian company Live Current Media, becoming millionaires."
+      },
+      {
+        "year": "2009",
+        "event": "He attended Massachusetts Institute of Technology, but eventually dropped out in 2009 after starting businesses."
+      },
+      {
+        "year": "2010",
+        "event": "His younger brother Tommy participated with his project on blogging in the Young Scientist and Technology Exhibition in 2010."
+      },
+      {
+        "year": "2018",
+        "event": "In 2018, Stripe, under the direction of the Collison brothers, contributed $1 million to California YIMBY, a pro-housing development lobbying organisation."
+      },
+      {
+        "year": "2019",
+        "event": "In September 2019, it was announced that Stripe had raised an additional $250 million at a valuation of $35 billion."
+      },
+      {
+        "year": "2021",
+        "event": "The article was removed from the website on 9 April 2021."
+      }
+    ],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "vitalik-buterin",
     "name": "Vitalik Buterin",
     "title": "Co-founder, Ethereum",
-    "bio": "",
+    "bio": "Vitaly Dmitrievich Buterin, better known as Vitalik Buterin, is a Russian-Canadian computer programmer best known for co-founding Ethereum. Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011. In 2015, Buterin deployed the Ethereum blockchain with Gavin Wood, Charles Hoskinson, Anthony Di Iorio, and Joseph Lubin.",
     "netWorth": "TBD",
     "age": 32,
     "companies": [
       "ethereum"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   },
   {
     "slug": "arvind-krishna",
@@ -290,6 +945,11 @@
       "ibm"
     ],
     "education": "TBD",
-    "socials": {}
+    "socials": {},
+    "careerTimeline": [],
+    "achievements": [],
+    "quotes": [],
+    "relatedPersons": [],
+    "lastUpdated": "2026-06-29"
   }
 ]

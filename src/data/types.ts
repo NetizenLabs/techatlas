@@ -12,6 +12,11 @@ export interface Person {
     linkedin?: string;
   };
   lastUpdated?: string;
+  // Enhanced SEO Fields
+  careerTimeline?: { year: string; event: string }[];
+  achievements?: string[];
+  quotes?: { text: string; source: string; year?: string }[];
+  relatedPersons?: string[]; // Slugs for internal linking
 }
 
 export interface Company {
@@ -26,6 +31,12 @@ export interface Company {
   description: string;
   website: string;
   lastUpdated?: string;
+  // Enhanced SEO Fields
+  foundingStory?: string;
+  milestones?: { year: string; event: string }[];
+  products?: string[];
+  fundingHistory?: { round: string; amount: string; date: string }[];
+  competitors?: string[]; // Slugs for internal linking
 }
 
 export interface Topic {
@@ -33,4 +44,17 @@ export interface Topic {
   name: string;
   description: string;
   relatedCompanies: string[]; // Slugs of companies
+}
+
+export interface NewsArticle {
+  id: string;
+  slug: string;
+  title: string;
+  description: string;
+  content?: string;
+  link: string;
+  pubDate: string;
+  source: string;
+  author: string;
+  category?: string;
 }
