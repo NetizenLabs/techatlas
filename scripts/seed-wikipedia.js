@@ -11,7 +11,11 @@ async function fetchWikipediaHTML(name) {
   const url = `https://en.wikipedia.org/w/api.php?action=parse&page=${query}&format=json`;
   
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'TechAtlasBot/2.0 (contact@netizenlabs.online)'
+      }
+    });
     const data = await res.json();
     if (data.error) return null;
     return data.parse.text['*'];
@@ -58,7 +62,11 @@ async function fetchWikiquotes(name) {
   const url = `https://en.wikiquote.org/w/api.php?action=parse&page=${query}&format=json`;
   
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'TechAtlasBot/2.0 (contact@netizenlabs.online)'
+      }
+    });
     const data = await res.json();
     if (data.error) return [];
     
@@ -93,7 +101,11 @@ async function fetchWikipediaSummary(name) {
   const query = encodeURIComponent(name.replace(/ /g, '_'));
   const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${query}`;
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'TechAtlasBot/2.0 (contact@netizenlabs.online)'
+      }
+    });
     if (!res.ok) return null;
     return await res.json();
   } catch (err) {

@@ -75,7 +75,7 @@
       "greg-brockman",
       "ilya-sutskever"
     ],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "jensen-huang",
@@ -146,13 +146,13 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "elon-musk",
     "name": "Elon Musk",
     "title": "CEO, Tesla & SpaceX",
-    "bio": "Elon Reeve Musk is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the first and only trillionaire in terms of US dollars in mid June 2026; however as of June 21, 2026, Forbes estimates his net worth to be US$951 billion.",
+    "bio": "Elon Reeve Musk is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the first and only trillionaire in terms of US dollars in mid June 2026; as of June 29, 2026, Forbes estimates his net worth to be US$1 trillion.",
     "netWorth": "TBD",
     "age": 55,
     "companies": [
@@ -219,7 +219,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "sundar-pichai",
@@ -274,7 +274,7 @@
     ],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "satya-nadella",
@@ -327,9 +327,25 @@
       "Orchestrated strategic acquisitions of LinkedIn and GitHub",
       "Forged a multi-billion dollar exclusive partnership with OpenAI"
     ],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "We are the only ones who can harness the power of software and deliver it through devices and services that truly empower every individual and every organization. We are the only company with history and continued focus in building platforms and ecosystems that create broad opportunity.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Meet the new CEO: Satya Nadella's email to Microsoft employees in InfoWorld (4 February 2014)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "CEO Satya Nadella outlines Microsoft’s “productivity and platform” direction, hints at big changes to come in The Seattle Times (10 July 2014)",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "mark-zuckerberg",
@@ -400,7 +416,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "jeff-bezos",
@@ -467,7 +483,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "larry-page",
@@ -534,7 +550,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "sergey-brin",
@@ -601,7 +617,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "tim-cook",
@@ -615,31 +631,129 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1960",
+        "event": "Timothy Donald Cook (born November 1, 1960) is an American business executive who has served as the chief executive officer (CEO) of Apple since 2011."
+      },
+      {
+        "year": "1982",
+        "event": "Cook received a Bachelor of Science with a major in industrial engineering from Auburn University in 1982 and a Master of Business Administration from Duke University in 1988."
+      },
+      {
+        "year": "1988",
+        "event": "During this time, Cook also earned his MBA from Duke University, becoming a Fuqua Scholar in 1988."
+      },
+      {
+        "year": "1998",
+        "event": "In 1998, Steve Jobs asked Cook to join Apple."
+      },
+      {
+        "year": "2005",
+        "event": "Outside of Apple, Cook has sat on the board of directors of Nike since 2005."
+      },
+      {
+        "year": "2007",
+        "event": "In January 2007, Cook was promoted to lead operations and was chief executive in 2009, while Jobs, in failing health, was away on a leave of absence."
+      },
+      {
+        "year": "2008",
+        "event": "During the 2008 election cycle, Cook donated to Barack Obama's first White House election."
+      },
+      {
+        "year": "2009",
+        "event": "Cook has said that in 2009 he offered a portion of his liver to Jobs, as they shared a rare blood type."
+      }
+    ],
     "achievements": [
       "Grew Apple into the world's first $3 Trillion company",
       "Successfully launched the Apple Watch and AirPods product lines",
       "Masterminded Apple's pivot towards high-margin services"
     ],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "You can converge a toaster and refrigerator, but these things are probably not going to be pleasing to the user.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "During the Q & A session after an earnings call (2012-04-24)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Cook was asked about converging touch- and mouse-based operating systems into one product, like Microsoft's Windows 8.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "linus-torvalds",
     "name": "Linus Torvalds",
     "title": "Creator, Linux",
-    "bio": "",
+    "bio": "Linus Benedict Torvalds is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991. He also created the distributed version control system Git.",
     "netWorth": "TBD",
     "age": 56,
     "companies": [],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1969",
+        "event": "Linus Benedict Torvalds[a] (born 28 December 1969) is a Finnish and American software engineer who is the creator and lead developer of the Linux kernel since 1991."
+      },
+      {
+        "year": "1981",
+        "event": "His interest in computers began with a VIC-20 at the age of 11 in 1981."
+      },
+      {
+        "year": "1988",
+        "event": "Torvalds attended the University of Helsinki from 1988 to 1996, graduating with a master's degree in computer science from the NODES research group."
+      },
+      {
+        "year": "1990",
+        "event": "In 1990, Torvalds resumed his university studies, and was exposed to Unix for the first time in the form of a DEC MicroVAX running ULTRIX."
+      },
+      {
+        "year": "1991",
+        "event": "On 5 January 1991 he purchased an Intel 80386-based IBM PC clone before receiving a copy of MINIX, which in turn enabled him to begin work on Linux."
+      },
+      {
+        "year": "1993",
+        "event": "Linus Torvalds is married to Tove Torvalds (née Monni), a six-time Finnish national karate champion, whom he met in late 1993."
+      },
+      {
+        "year": "1996",
+        "event": "After a visit to Transmeta in late 1996, Torvalds accepted a position at the company in California, where he worked from February 1997 to June 2003."
+      },
+      {
+        "year": "1997",
+        "event": "From 1997 to 1999, he was involved in 86open, helping select the standard binary format for Linux and Unix."
+      }
+    ],
     "achievements": [],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Torvalds, Linus (1991-08-25). Post. news:comp.os.minix. Google Groups. Archived from the original on unknown. Retrieved on 2006-08-28. This was the launch of Linux.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Do you pine for the nice days of minix-1.1, when men were men and wrote their own device drivers?",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "yann-lecun",
@@ -653,21 +767,70 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1960",
+        "event": "Yann André Le Cun was born on 8 July 1960 at Soisy-sous-Montmorency, in the suburbs of Paris."
+      },
+      {
+        "year": "1988",
+        "event": "In 1988, LeCun joined the Adaptive Systems Research Department at AT&T Bell Laboratories in Holmdel, New Jersey, United States, headed by Lawrence D."
+      },
+      {
+        "year": "2003",
+        "event": "After a brief tenure as a fellow of NEC Research Institute, LeCun joined New York University in 2003, where he is Jacob T."
+      },
+      {
+        "year": "2012",
+        "event": "In 2012, he became the founding director of the NYU Center for Data Science."
+      },
+      {
+        "year": "2013",
+        "event": "In 2013, he and Yoshua Bengio co-founded the International Conference on Learning Representations, which adopted a post-publication open review process he previously advocated on his website."
+      },
+      {
+        "year": "2014",
+        "event": "In 2014, he received the IEEE Neural Network Pioneer Award and in 2015, the PAMI Distinguished Researcher Award."
+      },
+      {
+        "year": "2018",
+        "event": "In 2018, LeCun, Yoshua Bengio, and Geoffrey Hinton received the Turing Award from the Association for Computing Machinery (ACM) for their work on deep learning."
+      },
+      {
+        "year": "2019",
+        "event": "In 2019, he received the Golden Plate Award of the American Academy of Achievement."
+      }
+    ],
     "achievements": [
       "Invented Convolutional Neural Networks (CNNs) for image recognition",
       "Won the 2018 Turing Award for breakthroughs in deep learning",
       "Pioneered Self-Supervised Learning research at Meta AI"
     ],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "\"The analogy I've been using is the fact that perhaps an equivalent event in the history of humanity to what might be provided by Generalization of AI assistant is the invention of the printing press. It made everybody smarter.\"",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "\"#416 - Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI\", on Lex Fridman Podcast, found on DeepCast (7 March 2024)",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "\"AI is going to bring a new renaissance for humanity, a new form of enlightenment, if you want, because AI is going to amplify everybody's intelligence.\"",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "geoffrey-hinton",
     "name": "Geoffrey Hinton",
     "title": "Cognitive Psychologist & Computer Scientist",
-    "bio": "",
+    "bio": "Geoffrey Everest Hinton is a British-Canadian computer scientist, cognitive scientist, cognitive psychologist and Nobel Prize laureate known for his work on artificial neural networks, which earned him the title \"the Godfather of AI\". He is University Professor Emeritus at the University of Toronto.",
     "netWorth": "TBD",
     "age": 78,
     "companies": [
@@ -675,17 +838,66 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1947",
+        "event": "Hinton was born on 6 December 1947 in Wimbledon in the United Kingdom and was educated at Clifton College in Bristol."
+      },
+      {
+        "year": "1985",
+        "event": "In 1985, Hinton co-invented Boltzmann machines with David Ackley and Terry Sejnowski."
+      },
+      {
+        "year": "1987",
+        "event": "He is currently[update] University Professor Emeritus in the Department of Computer Science at the University of Toronto, where he has been affiliated since 1987."
+      },
+      {
+        "year": "1990",
+        "event": "Hinton is a Fellow of the US Association for the Advancement of Artificial Intelligence (FAAAI) since 1990."
+      },
+      {
+        "year": "1994",
+        "event": "Hinton's first wife, Rosalind Zalin, died of ovarian cancer in 1994; his second wife, Jacqueline \"Jackie\" Ford, died of pancreatic cancer in 2018."
+      },
+      {
+        "year": "2001",
+        "event": "In 2001, Hinton was awarded an honorary Doctor of Science (DSc) degree from the University of Edinburgh."
+      },
+      {
+        "year": "2012",
+        "event": "Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012."
+      },
+      {
+        "year": "2016",
+        "event": "Archived from the original on 11 November 2016."
+      }
+    ],
     "achievements": [],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "I think political systems will use it to terrorize people.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "Heaven, Will Douglas (May 2, 2023). Geoffrey Hinton tells us why he’s now scared of the tech he helped build. MIT Technology Review.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "It seems very likely to a large number of people that we will get massive unemployment caused by Ai.",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "andrej-karpathy",
     "name": "Andrej Karpathy",
     "title": "AI Researcher",
-    "bio": "",
+    "bio": "Andrej Karpathy is a Slovak-Canadian AI researcher, who co-founded and formerly worked at OpenAI, where he specialized in deep learning and computer vision. He also worked as the director of artificial intelligence and Autopilot Vision at Tesla, and in 2024 he founded Eureka Labs, an AI education platform. In 2026 he joined Anthropic as part of the pretraining team.",
     "netWorth": "TBD",
     "age": 39,
     "companies": [
@@ -694,17 +906,38 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1986",
+        "event": "Andrej Karpathy (born 23 October 1986) is a Slovak-Canadian AI researcher, who co-founded and formerly worked at OpenAI, where he specialized in deep learning and computer vision."
+      },
+      {
+        "year": "2006",
+        "event": "In 2006, Karpathy began posting videos on YouTube on his channel, badmephisto."
+      },
+      {
+        "year": "2015",
+        "event": "The course became one of the largest classes at Stanford, growing from 150 students in 2015 to 750 in 2017."
+      },
+      {
+        "year": "2023",
+        "event": "On February 9, 2023, Karpathy announced he was returning to OpenAI."
+      },
+      {
+        "year": "2025",
+        "event": "In February 2025, Karpathy coined the term vibe coding to describe how AI tools allow hobbyists to construct apps and websites just by typing prompts."
+      }
+    ],
     "achievements": [],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "demis-hassabis",
     "name": "Demis Hassabis",
     "title": "CEO, DeepMind",
-    "bio": "",
+    "bio": "Sir Demis Hassabis is a British artificial intelligence (AI) researcher and entrepreneur. He is the chief executive officer and co-founder of Google DeepMind and Isomorphic Labs, and a UK Government AI Adviser. In 2024, Hassabis and John M. Jumper were jointly awarded the Nobel Prize in Chemistry for their AI research contributions to protein structure prediction.",
     "netWorth": "TBD",
     "age": 49,
     "companies": [
@@ -713,21 +946,70 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1984",
+        "event": "He first got interested in technology after buying his first computer in 1984, a ZX Spectrum 48K, funded from chess winnings."
+      },
+      {
+        "year": "1994",
+        "event": "He began by playtesting on Syndicate and then at 17 co-designing and lead-programming on the 1994 game Theme Park, with the game's designer Peter Molyneux."
+      },
+      {
+        "year": "1995",
+        "event": "He represented the University of Cambridge in the Oxford–Cambridge varsity chess matches of 1995, 1996 and 1997, winning a half blue."
+      },
+      {
+        "year": "1997",
+        "event": "Hassabis left Bullfrog to study at Queens' College, Cambridge, where he completed the Computer Science Tripos and graduated in 1997 with a double first."
+      },
+      {
+        "year": "1998",
+        "event": "Hassabis left Lionhead in 1998 to found Elixir Studios, a London-based independent games developer, signing publishing deals with Eidos Interactive, Vivendi Universal and Microsoft."
+      },
+      {
+        "year": "2001",
+        "event": "At Lionhead, Hassabis worked as lead AI programmer on the 2001 god game Black & White."
+      },
+      {
+        "year": "2005",
+        "event": "In April 2005 the intellectual property and technology rights were sold to various publishers and the studio was closed."
+      },
+      {
+        "year": "2009",
+        "event": "Following Elixir Studios, Hassabis returned to academia to obtain his PhD in cognitive neuroscience from UCL Queen Square Institute of Neurology in 2009 supervised by Eleanor Maguire."
+      }
+    ],
     "achievements": [
       "Co-founded DeepMind, solving grand challenges in AI",
       "Led the team that created AlphaGo to defeat human Go champions",
       "Developed AlphaFold, revolutionizing protein folding prediction in biology"
     ],
-    "quotes": [],
+    "quotes": [
+      {
+        "text": "Step one, solve intelligence; step two, use it to solve everything else.",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "https://www.theatlantic.com/sponsored/google/unlocking-lifes-building-blocks-demis-hassabis/3867/",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "https://www.youtube.com/watch?v=-HzgcbRXUK8",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "dario-amodei",
     "name": "Dario Amodei",
     "title": "CEO, Anthropic",
-    "bio": "",
+    "bio": "Dario Amodei is an American artificial intelligence (AI) researcher and entrepreneur. In 2021, he and his sister Daniela Amodei co-founded Anthropic, the company behind the large language model series Claude. Prior to that, he was the vice president of research at OpenAI.",
     "netWorth": "TBD",
     "age": 0,
     "companies": [
@@ -736,7 +1018,40 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1983",
+        "event": "Dario Amodei (born 1983) is an American artificial intelligence (AI) researcher and entrepreneur."
+      },
+      {
+        "year": "2000",
+        "event": "He was a member of the USA Physics Olympiad team in 2000."
+      },
+      {
+        "year": "2014",
+        "event": "From November 2014 until October 2015, he worked at Baidu."
+      },
+      {
+        "year": "2021",
+        "event": "In 2021, Dario and his sister, Daniela, founded Anthropic along with other former senior members of OpenAI."
+      },
+      {
+        "year": "2023",
+        "event": "In November 2023, the board of directors of OpenAI approached Amodei about replacing Sam Altman and potentially merging the two startups."
+      },
+      {
+        "year": "2024",
+        "event": "In October 2024, Amodei published an essay entitled \"Machines of Loving Grace\", in which he speculated about how AI could improve human welfare."
+      },
+      {
+        "year": "2025",
+        "event": "Time magazine listed Amodei as one of the world's 100 most influential people in 2025, and again in 2026 alongside his sister Daniela."
+      },
+      {
+        "year": "2026",
+        "event": "As of May 2026,[update] Anthropic has an estimated value of $965 billion, with Forbes estimating Amodei's net worth to be $15.5 billion."
+      }
+    ],
     "achievements": [
       "Led AI safety research at OpenAI prior to founding Anthropic",
       "Developed Constitutional AI to create safer, steerable language models",
@@ -744,13 +1059,13 @@
     ],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "reed-hastings",
     "name": "Reed Hastings",
     "title": "Co-founder, Netflix",
-    "bio": "",
+    "bio": "Wilmot Reed Hastings Jr. is an American billionaire businessman. He is the co-founder of Netflix, which provides the eponymous streaming service. Hastings serves on a number of boards and works with various non-profit organizations. A former president of the California State Board of Education, Hastings is also an advocate for charter schools.",
     "netWorth": "TBD",
     "age": 65,
     "companies": [
@@ -758,11 +1073,44 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1960",
+        "event": "(born October 8, 1960) is an American billionaire businessman."
+      },
+      {
+        "year": "1983",
+        "event": "In 1983, he graduated from Bowdoin College with a Bachelor of Arts in mathematics."
+      },
+      {
+        "year": "1990",
+        "event": "He met Audrey MacLean in 1990 when she was CEO at Adaptive Corp."
+      },
+      {
+        "year": "1991",
+        "event": "Hastings left Adaptive Technology in 1991 to lay the foundation for his first company, Pure Software, which produced products to troubleshoot software."
+      },
+      {
+        "year": "1996",
+        "event": "In 1996, Pure Software announced a merger with Atria Software."
+      },
+      {
+        "year": "1997",
+        "event": "In 1997, the combined company, Pure Atria, was acquired by Rational Software, which triggered a 42% drop in both companies' stocks after the deal was announced."
+      },
+      {
+        "year": "2000",
+        "event": "In 2000, Governor Gray Davis appointed Hastings to the State Board of Education, and in 2001, Hastings became its president."
+      },
+      {
+        "year": "2004",
+        "event": "In April 2004, Hastings authored a Wall Street Journal op-ed advocating the expensing of stock options."
+      }
+    ],
     "achievements": [],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "marc-andreessen",
@@ -829,7 +1177,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "paul-graham",
@@ -863,7 +1211,7 @@
       }
     ],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "patrick-collison",
@@ -914,7 +1262,7 @@
     "achievements": [],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "vitalik-buterin",
@@ -928,17 +1276,50 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "2007",
+        "event": "I happily played World of Warcraft during 2007–2010, but one day Blizzard removed the damage component from my beloved warlock's Siphon Life spell."
+      },
+      {
+        "year": "2011",
+        "event": "In 2011, Buterin began writing for a publication called Bitcoin Weekly after meeting a person on a bitcoin forum with the aim of earning bitcoin."
+      },
+      {
+        "year": "2012",
+        "event": "In 2012, Buterin won a bronze medal in the International Olympiad in Informatics in Italy."
+      },
+      {
+        "year": "2013",
+        "event": "In 2013, he visited developers in other countries who shared his enthusiasm for code."
+      },
+      {
+        "year": "2017",
+        "event": "As Buterin was recognizing the economic and political relevance of the Ethereum enterprise for his native Russia, he met with President Vladimir Putin on 2 June 2017, at the St."
+      },
+      {
+        "year": "2018",
+        "event": "On 30 November 2018, Buterin received an honorary doctorate from the Faculty of Business and Economics of the University of Basel."
+      },
+      {
+        "year": "2019",
+        "event": "Collaborating with Zoe Hitzig, a PhD student at Harvard, they published a paper in 2019 entitled A Flexible Design for Funding Public Goods."
+      },
+      {
+        "year": "2021",
+        "event": "In May 2021, Buterin donated $665 million to the Future of Life Institute, a nonprofit which, amongst other things, seeks to mitigate the existential risk from artificial intelligence."
+      }
+    ],
     "achievements": [],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "slug": "arvind-krishna",
     "name": "Arvind Krishna",
     "title": "CEO, IBM",
-    "bio": "",
+    "bio": "Arvind Krishna is an Indian-American business executive, and the chairman and CEO of IBM. He has been CEO of IBM since April 2020 and chairman since January 2021. Krishna began his career at IBM in 1990, at its Thomas J. Watson Research Center, and was promoted to senior vice president in 2015, managing IBM Cloud & Cognitive Software and IBM Research divisions. He was a principal architect of the acquisition of Red Hat, the largest acquisition in the company's history.",
     "netWorth": "TBD",
     "age": 0,
     "companies": [
@@ -946,10 +1327,230 @@
     ],
     "education": "TBD",
     "socials": {},
-    "careerTimeline": [],
+    "careerTimeline": [
+      {
+        "year": "1962",
+        "event": "Arvind Krishna (born November 23, 1962) is an Indian-American business executive, and the chairman and CEO of IBM."
+      },
+      {
+        "year": "1990",
+        "event": "Watson Research Center in 1990, and continued in Watson Research for 18 years until 2009."
+      },
+      {
+        "year": "2019",
+        "event": "He was a driving force behind IBM's $34 billion acquisition of Red Hat, which closed in July 2019."
+      },
+      {
+        "year": "2020",
+        "event": "He was appointed IBM's CEO in January 2020, effective April 6, 2020, succeeding Ginni Rometty who was CEO since 2012."
+      }
+    ],
     "achievements": [],
     "quotes": [],
     "relatedPersons": [],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
+  },
+  {
+    "slug": "edo-liberty",
+    "name": "Edo Liberty",
+    "title": "Founder & CEO, Pinecone",
+    "bio": "",
+    "netWorth": "Unknown",
+    "age": 45,
+    "companies": [
+      "pinecone"
+    ],
+    "education": "Tel Aviv University, Yale University",
+    "socials": {},
+    "lastUpdated": "2026-06-30",
+    "achievements": [
+      "Led Yahoo! Research labs in Israel focusing on machine learning and search",
+      "Headed Amazon Web Services (AWS) AI Algorithms group as Principal Scientist",
+      "Founded Pinecone in 2019 to build high-performance vector databases for AI"
+    ]
+  },
+  {
+    "slug": "bob-van-luijt",
+    "name": "Bob van Luijt",
+    "title": "Co-Founder & CEO, Weaviate",
+    "bio": "Bob van Luijt, is a Dutch technology entrepreneur, technologist, and angel investor. He is the co-founder and CEO of Weaviate, an open-source vector database.",
+    "netWorth": "Unknown",
+    "age": 39,
+    "companies": [
+      "weaviate"
+    ],
+    "education": "Utrecht School of the Arts",
+    "socials": {},
+    "careerTimeline": [
+      {
+        "year": "1985",
+        "event": "Bob van Luijt (born November 15, 1985), is a Dutch technology entrepreneur, technologist, and angel investor."
+      },
+      {
+        "year": "2012",
+        "event": "Between 2012 and 2013, Van Luijt was an early participant and commentator in the Dutch Bitcoin community."
+      },
+      {
+        "year": "2015",
+        "event": "His first tech-based artwork, Control(human, data, sound) (CHDS), was selected as an awards Finalist for CREATE 2015 in Pittsburgh."
+      },
+      {
+        "year": "2021",
+        "event": "He has argued that software development is a form of linguistic articulation, a theme explored in his 2021 TEDx talk regarding the relationship between digital technology and language."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "If it can be said, it can be built [using digital technology].",
+        "source": "Wikiquote",
+        "year": ""
+      },
+      {
+        "text": "TEDx talk: \"Digital technology through the lens of language\" (15 November 2021)",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "lastUpdated": "2026-06-30",
+    "achievements": [
+      "Founded Weaviate in 2019 to make vector database technology open-source",
+      "Elected to the board of the ASWF (Academy Software Foundation)",
+      "Named a member of the LF AI & Data foundation"
+    ]
+  },
+  {
+    "slug": "brian-armstrong",
+    "name": "Brian Armstrong",
+    "title": "Co-Founder & CEO, Coinbase",
+    "bio": "Brian Armstrong may refer to:Brian Armstrong, ring name used by Brian Girard James, American professional wrestler better known by another ring name, Road Dogg\nBrian Armstrong (footballer), New Zealand international football (soccer) player\nBrian Armstrong (businessman),, founder and CEO of Coinbase\nBrian Armstrong, American college football coach",
+    "netWorth": "$10B+",
+    "age": 43,
+    "companies": [
+      "coinbase"
+    ],
+    "education": "Rice University",
+    "socials": {
+      "twitter": "https://twitter.com/brian_armstrong"
+    },
+    "lastUpdated": "2026-06-30",
+    "achievements": [
+      "Co-founded Coinbase, the largest cryptocurrency exchange in the United States",
+      "Guided Coinbase through a successful direct public listing (IPO) on Nasdaq",
+      "Co-founded GiveCrypto to distribute cryptocurrency to people in poverty"
+    ]
+  },
+  {
+    "slug": "anatoly-yakovenko",
+    "name": "Anatoly Yakovenko",
+    "title": "Co-Founder, Solana",
+    "bio": "Anatoly Yakovenko is a Ukrainian-born software engineer and entrepreneur who co-founded the Solana blockchain platform.",
+    "netWorth": "Unknown",
+    "age": 46,
+    "companies": [
+      "solana-foundation"
+    ],
+    "education": "University of Illinois Urbana-Champaign",
+    "socials": {
+      "twitter": "https://twitter.com/aeyakovenko"
+    },
+    "careerTimeline": [
+      {
+        "year": "2016",
+        "event": "Since 2016, he has worked as an engineer at Mesosphere, a company that develops software for data centers, and at Dropbox"
+      },
+      {
+        "year": "2022",
+        "event": "In 2022, a putative class action filed in the U.S."
+      }
+    ],
+    "lastUpdated": "2026-06-30",
+    "achievements": [
+      "Published the Solana whitepaper detailing Proof of History (PoH) in 2017",
+      "Co-founded Solana Labs to build the high-speed Solana blockchain network",
+      "Oversaw Solana's rise to one of the most widely used networks globally"
+    ]
+  },
+  {
+    "slug": "arthur-mensch",
+    "name": "Arthur Mensch",
+    "title": "Co-Founder & CEO, Mistral AI",
+    "bio": "Arthur Mensch is a French artificial intelligence researcher and entrepreneur, best known as the co-founder and CEO of the Paris-based AI company Mistral AI. He is one of the most prominent figures in Europe’s AI ecosystem and is often cited in debates on AI policy, sovereign technology, and open models.",
+    "netWorth": "Unknown",
+    "age": 33,
+    "companies": [
+      "mistral-ai"
+    ],
+    "education": "École Polytechnique, ENS Paris-Saclay",
+    "socials": {
+      "twitter": "https://twitter.com/arthurmensch"
+    },
+    "lastUpdated": "2026-06-30",
+    "careerTimeline": [
+      {
+        "year": "1992",
+        "event": "Arthur Mensch (born 17 July 1992) is a French artificial intelligence researcher and entrepreneur, best known as the co-founder and CEO of the Paris-based AI company Mistral AI."
+      },
+      {
+        "year": "2011",
+        "event": "He studied at the École Polytechnique (2011) and Télécom Paris, then completed the Mathematics, Vision, Learning (MVA) master's program at the École normale supérieure Paris-Saclay."
+      },
+      {
+        "year": "2018",
+        "event": "From 2018 to 2020, he was a postdoctoral researcher at the École normale supérieure (Paris), working on optimal transport and stochastic optimization."
+      },
+      {
+        "year": "2020",
+        "event": "In late 2020, Mensch joined DeepMind Paris, where he worked for nearly three years on large language models (LLMs), multimodal systems, and retrieval-augmented architectures."
+      },
+      {
+        "year": "2023",
+        "event": "In May 2023, Mensch co-founded Mistral AI with Guillaume Lample and Timothée Lacroix."
+      },
+      {
+        "year": "2024",
+        "event": "In 2024, the magazine Challenges ranked him among the wealthiest French people."
+      },
+      {
+        "year": "2025",
+        "event": "By 2025, Mensch and co-founders were reported billionaires (net worth ~$1.1b each)."
+      },
+      {
+        "year": "2026",
+        "event": "Its consumer-facing chatbot Vibe, until May 2026 Le Chat, integrates news sources and enterprise connectors."
+      }
+    ],
+    "achievements": [
+      "Worked as a core AI researcher at DeepMind and Google Brain",
+      "Co-founded Mistral AI in Paris in 2023 to pioneer open-source AI",
+      "Raised $1B+ in under a year, positioning Mistral as a prime European Tech Unicorn"
+    ]
+  },
+  {
+    "slug": "aravind-srinivas",
+    "name": "Aravind Srinivas",
+    "title": "Co-Founder & CEO, Perplexity AI",
+    "bio": "Perplexity AI, Inc., or simply Perplexity, is an American privately held software company offering a web search engine that processes user queries and synthesizes responses. Perplexity products use large language models and incorporate real-time web search capabilities, providing responses based on current Internet content, citing sources used. Its real-time search engine is called Sonar and is based on Meta's Llama model. A free public version is available, while a paid Pro subscription offers access to more advanced language models and additional features.",
+    "netWorth": "Unknown",
+    "age": 36,
+    "companies": [
+      "perplexity-ai"
+    ],
+    "education": "IIT Madras, UC Berkeley",
+    "socials": {
+      "twitter": "https://twitter.com/AravSrinivas"
+    },
+    "lastUpdated": "2026-06-30",
+    "quotes": [
+      {
+        "text": "\"#434 - Aravind Srinivas: Perplexity CEO on Future of AI, Search & the Internet\" on Lex Fridman Podcast, found on DeepCast (19 June 2024)",
+        "source": "Wikiquote",
+        "year": ""
+      }
+    ],
+    "achievements": [
+      "Conducted AI research at OpenAI, DeepMind, and Google",
+      "Co-founded Perplexity AI to build the world's first conversational search engine",
+      "Successfully scaled Perplexity to handle millions of daily search queries"
+    ]
   }
 ]

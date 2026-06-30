@@ -1,12 +1,104 @@
 [
-  { "slug": "artificial-intelligence", "name": "Artificial Intelligence", "description": "The simulation of human intelligence processes by machines, especially computer systems.", "relatedCompanies": ["openai", "google", "meta", "anthropic", "deepmind"] },
-  { "slug": "machine-learning", "name": "Machine Learning", "description": "A field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data.", "relatedCompanies": ["nvidia", "hugging-face"] },
-  { "slug": "cloud-computing", "name": "Cloud Computing", "description": "The on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.", "relatedCompanies": ["amazon", "microsoft", "google"] },
-  { "slug": "devops", "name": "DevOps", "description": "A methodology in the software development and IT industry that integrates and automates the work of software development and IT operations.", "relatedCompanies": ["github", "docker", "hashicorp"] },
-  { "slug": "cybersecurity", "name": "Cybersecurity", "description": "The protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data.", "relatedCompanies": ["cloudflare"] },
-  { "slug": "web3", "name": "Web3", "description": "An idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.", "relatedCompanies": [] },
-  { "slug": "open-source", "name": "Open Source", "description": "Software for which the original source code is made freely available and may be redistributed and modified.", "relatedCompanies": ["github", "hugging-face", "docker"] },
-  { "slug": "vector-databases", "name": "Vector Databases", "description": "A database system designed to store, manage, and search embedding vectors, crucial for AI and machine learning applications.", "relatedCompanies": [] },
-  { "slug": "ai-agents", "name": "AI Agents", "description": "Autonomous or semi-autonomous AI systems that can perceive their environment, make decisions, and take actions to achieve specific goals.", "relatedCompanies": ["openai", "anthropic", "deepmind"] },
-  { "slug": "developer-tools", "name": "Developer Tools", "description": "Software tools that software developers use to create, test, and debug other programs and applications.", "relatedCompanies": ["vercel", "github", "hashicorp"] }
+  {
+    "slug": "artificial-intelligence",
+    "name": "Artificial Intelligence",
+    "description": "The simulation of human intelligence processes by machines, especially computer systems.",
+    "relatedCompanies": [
+      "openai",
+      "google",
+      "meta",
+      "anthropic",
+      "deepmind",
+      "mistral-ai",
+      "perplexity-ai"
+    ]
+  },
+  {
+    "slug": "machine-learning",
+    "name": "Machine Learning",
+    "description": "A field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data.",
+    "relatedCompanies": [
+      "nvidia",
+      "hugging-face"
+    ]
+  },
+  {
+    "slug": "cloud-computing",
+    "name": "Cloud Computing",
+    "description": "The on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.",
+    "relatedCompanies": [
+      "amazon",
+      "microsoft",
+      "google"
+    ]
+  },
+  {
+    "slug": "devops",
+    "name": "DevOps",
+    "description": "A methodology in the software development and IT industry that integrates and automates the work of software development and IT operations.",
+    "relatedCompanies": [
+      "github",
+      "docker",
+      "hashicorp"
+    ]
+  },
+  {
+    "slug": "cybersecurity",
+    "name": "Cybersecurity",
+    "description": "The protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data.",
+    "relatedCompanies": [
+      "cloudflare"
+    ]
+  },
+  {
+    "slug": "web3",
+    "name": "Web3",
+    "description": "An idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics.",
+    "relatedCompanies": [
+      "ethereum-foundation",
+      "coinbase",
+      "solana-foundation"
+    ]
+  },
+  {
+    "slug": "open-source",
+    "name": "Open Source",
+    "description": "Software for which the original source code is made freely available and may be redistributed and modified.",
+    "relatedCompanies": [
+      "github",
+      "hugging-face",
+      "docker"
+    ]
+  },
+  {
+    "slug": "vector-databases",
+    "name": "Vector Databases",
+    "description": "A database system designed to store, manage, and search embedding vectors, crucial for AI and machine learning applications.",
+    "relatedCompanies": [
+      "pinecone",
+      "weaviate"
+    ]
+  },
+  {
+    "slug": "ai-agents",
+    "name": "AI Agents",
+    "description": "Autonomous or semi-autonomous AI systems that can perceive their environment, make decisions, and take actions to achieve specific goals.",
+    "relatedCompanies": [
+      "openai",
+      "anthropic",
+      "deepmind"
+    ]
+  },
+  {
+    "slug": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Software tools that software developers use to create, test, and debug other programs and applications.",
+    "relatedCompanies": [
+      "vercel",
+      "github",
+      "hashicorp",
+      "pinecone",
+      "weaviate"
+    ]
+  }
 ]
