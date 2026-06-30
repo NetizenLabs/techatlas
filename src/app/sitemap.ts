@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getPersons, getCompanies, getTopics } from '@/data/api';
 
-const BASE_URL = 'https://techatlas.com'; // Change to actual production URL
+const BASE_URL = 'https://tech.netizenlabs.online';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const persons = getPersons();

@@ -54,7 +54,7 @@ export async function getNewsArticles(): Promise<(NewsArticle & { relatedCompani
       const res = await fetch(feed.url, {
         next: { revalidate: 1800 },
         headers: {
-          "User-Agent": "TechAtlasBot/2.0 (Mozilla compatible; contact@techatlas.com)"
+          "User-Agent": "TechAtlasBot/2.0 (Mozilla compatible; contact@netizenlabs.online)"
         }
       });
       

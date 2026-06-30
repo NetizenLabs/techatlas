@@ -45,7 +45,7 @@ export default async function PersonPage({ params }: Props) {
     name: person.name,
     jobTitle: person.title,
     description: person.bio,
-    url: `https://techatlas.com/person/${person.slug}`,
+    url: `https://tech.netizenlabs.online/person/${person.slug}`,
     sameAs: [
       person.socials.twitter,
       person.socials.linkedin,

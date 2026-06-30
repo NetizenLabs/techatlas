@@ -7,7 +7,7 @@ async function fetchWikidataId(name) {
   const query = encodeURIComponent(name);
   const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${query}&language=en&format=json`;
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': 'TechAtlasBot/1.0 (test@techatlas.com)' } });
+    const res = await fetch(url, { headers: { 'User-Agent': 'TechAtlasBot/1.0 (test@netizenlabs.online)' } });
     const data = await res.json();
     if (data.search && data.search.length > 0) {
       return data.search[0].id;
@@ -21,7 +21,7 @@ async function fetchWikidataId(name) {
 async function fetchWikidataEntity(id) {
   const url = `https://www.wikidata.org/wiki/Special:EntityData/${id}.json`;
   try {
-    const res = await fetch(url, { headers: { 'User-Agent': 'TechAtlasBot/1.0 (test@techatlas.com)' } });
+    const res = await fetch(url, { headers: { 'User-Agent': 'TechAtlasBot/1.0 (test@netizenlabs.online)' } });
     const data = await res.json();
     return data.entities[id];
   } catch (err) {

@@ -65,7 +65,7 @@ export default function PrivacyPage() {
           <div className="space-y-2">
             <h2 className="text-xl font-bold text-gray-900">4. Contact Information</h2>
             <p className="leading-relaxed">
-              If you have any questions or feedback about our privacy practices, or if you need to submit a data rectification request, you can contact us at <span className="font-semibold text-gray-900">privacy@techatlas.com</span>.
+              If you have any questions or feedback about our privacy practices, or if you need to submit a data rectification request, you can contact us at <span className="font-semibold text-gray-900">privacy@netizenlabs.online</span>.
             </p>
           </div>
         </div>
